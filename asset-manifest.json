@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2457fcbb.css",
+    "main.js": "/static/js/main.0234da0d.js",
+    "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
+    "static/media/Navanithi.jpeg": "/static/media/Navanithi.e1ae64f41d951b1e765c.jpeg",
+    "static/media/istockphoto-811268074-612x612 (3).jpg": "/static/media/istockphoto-811268074-612x612 (3).5785d9c8fc04657d395b.jpg",
+    "index.html": "/index.html",
+    "main.2457fcbb.css.map": "/static/css/main.2457fcbb.css.map",
+    "main.0234da0d.js.map": "/static/js/main.0234da0d.js.map",
+    "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2457fcbb.css",
+    "static/js/main.0234da0d.js"
+  ]
+}
